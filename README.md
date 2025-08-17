@@ -1,2 +1,4 @@
 # java_projects
-A simple console-based Tic Tac Toe game in Java that allows two players to play turn by turn. The project demonstrates arrays, loops, and conditional logic with a clean and beginner-friendly code structure.
+A collection of simple Java console-based projects built using core Java concepts.
+Includes mini projects like Number Guessing Game, Tic Tac Toe, Calculator, and more.
+Great for beginners to practice loops, conditionals, arrays, and basic OOP in Java.
